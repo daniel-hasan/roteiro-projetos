@@ -9,7 +9,7 @@
 - **Aula sobre Funções (aula 33)**: Entenda o funcionamento de um função
 - **Exercite o que aprendeu**:  Os exerícios ainda não estão disponíveis.
     - Instale o Jupyter Notebook no seu PC  ([veja este guia de instalar Python, pip e Jupyter em seu PC](https://docs.google.com/document/d/1xa_1cAIyMb_oC3-0tEqpaSG4Fdip1enkPBOnm62IAy4/edit?usp=sharing),  veja funcionamento)
-    - Faça os exercícios deste Jupyter (apenas unidade 1: Tipos de dados, Variáveis e Funções) 
+    - Faça os exercícios deste Jupyter (apenas unidade 1: [Tipos de dados, Variáveis e Funções](jupyter-notebooks/Unidade-1.ipynb)) 
 - **Aulas sobre estrutura de repetição (aulas 13 e 14)**: Entenda estrutura de repetição usando todos os comandos apresentado 
 - **Aula sobre listas (aula 25 e 26)**: Lista dentro de listas são consideradas matrizes. Execute também o código apresentado.
 - **Exercite o que aprendeu**: Faça os exercícios deste Jupyter (apenas unidade 2: Condicionais, Vetores e Estruturas de Repetição) (ainda não disponível)
