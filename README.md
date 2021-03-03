@@ -63,7 +63,7 @@
 # Aprendizado de Máquina
 - Video aula 1: [Introdução à aprendizado de Máquina](https://www.youtube.com/watch?v=cpcBPg_z2Dg&list=PLwIaU1DGYV6u0XXOuQl8gEg0Rf05gDB9t)
 - Vídeo aula 2: [Ganho de Informação e Pandas](https://cefetmgbr-my.sharepoint.com/:v:/g/personal/hasan_cefetmg_br/EZ2_xzLdvxJBnKgskULu3K8Bu-K67lKJAGSgOAxQ7RFhtg?e=HExoTV) [slides](https://drive.google.com/open?id=1TgLJbcRj_Q5I-zqYYgMqyomKRxalW0Q0saJIS3XXeX8) [especificação - prática](https://github.com/daniel-hasan/ap-de-maquina-cefetmg-ganho-de-informacao/archive/master.zip)
-- Video aula 3: [Overfitting](https://www.youtube.com/watch?v=X3uecBfWxO8&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=5) [slides](https://drive.google.com/open?id=1gfs2bZPje502OB0DkVvOIH_mqWhWQHtPCRjRVRRPts8) [especificação - prática](https://github.com/daniel-hasan/ap-de-maquina-cefetmg-overfitting/archive/master.zip)
+- Video aula 3: [Overfitting](https://www.youtube.com/watch?v=X3uecBfWxO8&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=5) [\[slides\]](https://drive.google.com/open?id=1gfs2bZPje502OB0DkVvOIH_mqWhWQHtPCRjRVRRPts8) [especificação - prática](https://github.com/daniel-hasan/ap-de-maquina-cefetmg-overfitting/archive/master.zip)
 - Video aula 4: [Avaliação de Métodos de Aprendizado de Máquina](https://www.youtube.com/watch?v=Ag06UuWTsr4&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=12) [slides](https://drive.google.com/open?id=1u5x2b9BxmGXAWtfe9WanBIdqrt2k2ArKuEGY5Ks-okA) [especificação - prática](https://github.com/daniel-hasan/ap-de-maquina-cefetmg-avaliacao/archive/master.zip)
 
 ## Créditos
