@@ -12,7 +12,7 @@
     - Faça os exercícios deste Jupyter ([Unidade 1 - Tipos de dados, Variáveis e Funções](python/unidade-1.ipynb)) 
 - **Aulas sobre estrutura de repetição (aulas 13 e 14)**: Entenda estrutura de repetição usando todos os comandos apresentado 
 - **Aula sobre listas (aula 25 e 26)**: Lista dentro de listas são consideradas matrizes. Execute também o código apresentado.
-- **Exercite o que aprendeu**: Faça os exercícios deste Jupyter (apenas unidade 2: Condicionais, Vetores e Estruturas de Repetição) (em desenvolvimento)
+- **Exercite o que aprendeu**: Faça os exercícios deste Jupyter ([Unidade 2 - Condicionais, Vetores e Estruturas de Repetição](python/unidade-2.ipynb))
 
 ## Python - Básico (para alunos que já programaram em outra linguagem)
 
