@@ -25,7 +25,7 @@
 
 - [Assista o video](https://www.youtube.com/watch?v=2i8EAUGPyNE&list=PLwIaU1DGYV6skjkahOKtpgs9bPXlrVrIp&index=5) e [veja os slides](https://daniel-hasan.github.io/cefet-web-grad/classes/python2). Faça os exercícios no final do slide (usando Jupyter notebook)
 
-- Faça os exercícios deste Jupyter (principalmente unidade 3: Mais sobre funções e métodos úteis)
+- Faça os exercícios deste Jupyter ([unidade 3 - Mais sobre funções e Métodos úteis](python/unidade-3.ipynb))
 
 
 ## Django Models
