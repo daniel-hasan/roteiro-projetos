@@ -38,7 +38,7 @@
 - Assita a aula e faça o exercícios de: 
     - **HTML**: Estrutura de Uma Página Web [slides](https://fegemo.github.io/cefet-front-end/classes/html1) [video-aula](https://www.youtube.com/watch?v=XihlxlIroww&list=PLNaBD3CnN0-8b7lNxYp5GP_uajyFRn2ek&index=7) [especificacao](https://github.com/fegemo/cefet-front-end-pirates/) [codigo inicial](https://github.com/fegemo/cefet-front-end-pirates/archive/master.zip)
     - **CSS**: Seletores de classe, id e float [slides](https://fegemo.github.io/cefet-front-end/classes/css1), [video-aula](https://www.youtube.com/watch?v=nxc4nJmDdmA&list=PLNaBD3CnN0-8b7lNxYp5GP_uajyFRn2ek&index=23), [especificacao](https://github.com/fegemo/cefet-front-end-bees), [codigo inicial](https://github.com/fegemo/cefet-front-end-bees/archive/master.zip)
-    - **JavaScript 0 - sintaxe**: [Entenda a sintaxe basica - veja o vídeos e especificação aqui](https://daniel-hasan.github.io/cefet-front-end-js0) e [baixe o código inicial](https://github.com/daniel-hasan/cefet-front-end-js0/archive/master.zip)
+    - **JavaScript 0 - sintaxe**: [Entenda a sintaxe basica - veja o vídeos e especificação aqui](https://daniel-hasan.github.io/cefet-front-end-js0) e [baixe o código inicial](https://github.com/daniel-hasan/cefet-front-end-js0/archive/master.zip) 
     - **Javascript 1 - básico**: [video](https://www.youtube.com/watch?v=PqsdbYExuSs&list=PLNaBD3CnN0-8b7lNxYp5GP_uajyFRn2ek&index=60) [slides](https://fegemo.github.io/cefet-front-end/classes/js1) [especificacao](https://github.com/fegemo/cefet-front-end-math) [código inicial](https://github.com/fegemo/cefet-front-end-math/archive/master.zip)
 
 
@@ -56,15 +56,15 @@
 # Processamento de Linguagem Natural
 - [Entenda e teste os códigos presente neste tutorial](https://medium.com/@maelyalways/nltk-tutorial-8175e57fbfda) 
 - Entenda a representação textual usando binarização e TF-IDF [neste Jupyter](pln/representacao_texto.ipynb)
-- Entenda Embeddings vendo [esta video-aula](https://www.youtube.com/watch?v=bF-ymXA1CFg&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=39) (tópico 2 e 3 não tão é necessário entender tanto a rede neural envolvida para ser criada - tópico 3 - entenda mais a ideia geral). 
+- Entenda Embeddings vendo [esta video-aula](https://www.youtube.com/watch?v=bF-ymXA1CFg&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=39) - veja o tópico 2 e 3. O mais importante é entender a ideia geral (tópico 2) do que a rede neural (tópico 3). 
 
-- [Faça o seguinte exercício sobre embedding](pln/embeddings.ipynb) (em elaboração ainda)
+- [Faça o seguinte exercício sobre embedding](https://github.com/daniel-hasan/ap-de-maquina-embedding/archive/refs/heads/master.zip): Para entender a última seção (uso de aprendizado de máquina com embeddings) é recomendável assistir pelo menos a vídeo aula 1 e 4 de aprendizado de máquina (abaixo)
 
 # Aprendizado de Máquina
 - Video aula 1: [Introdução à aprendizado de Máquina](https://www.youtube.com/watch?v=cpcBPg_z2Dg&list=PLwIaU1DGYV6u0XXOuQl8gEg0Rf05gDB9t)
 - Vídeo aula 2: [Ganho de Informação e Pandas](https://cefetmgbr-my.sharepoint.com/:v:/g/personal/hasan_cefetmg_br/EZ2_xzLdvxJBnKgskULu3K8Bu-K67lKJAGSgOAxQ7RFhtg?e=HExoTV) \[[slides](https://drive.google.com/open?id=1TgLJbcRj_Q5I-zqYYgMqyomKRxalW0Q0saJIS3XXeX8)\] \[[especificação - prática](https://github.com/daniel-hasan/ap-de-maquina-cefetmg-ganho-de-informacao/archive/master.zip)\]
 - Video aula 3: [Overfitting](https://www.youtube.com/watch?v=X3uecBfWxO8&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=5) \[[slides](https://drive.google.com/open?id=1gfs2bZPje502OB0DkVvOIH_mqWhWQHtPCRjRVRRPts8)\] \[[especificação - prática](https://github.com/daniel-hasan/ap-de-maquina-cefetmg-overfitting/archive/master.zip)\]
-- Video aula 4: [Avaliação de Métodos de Aprendizado de Máquina](https://www.youtube.com/watch?v=Ag06UuWTsr4&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=12) \[[slides](https://drive.google.com/open?id=1u5x2b9BxmGXAWtfe9WanBIdqrt2k2ArKuEGY5Ks-okA)\] \[[especificação - prática](https://github.com/daniel-hasan/ap-de-maquina-cefetmg-avaliacao/archive/master.zip)\]
+- Video aula 4: [Avaliação de Métodos de Aprendizado de Máquina](https://www.youtube.com/watch?v=Ag06UuWTsr4&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=12) \[[slides](https://drive.google.com/open?id=1u5x2b9BxmGXAWtfe9WanBIdqrt2k2ArKuEGY5Ks-okA)\]  \[[especificação - prática](https://github.com/daniel-hasan/ap-de-maquina-cefetmg-avaliacao/archive/master.zip)\]
 
 ## Créditos
 Elaborado por [Daniel Hasan - CEFET-MG](https://github.com/daniel-hasan). Alguns materiais elaborado pelos seus alunos(as):
