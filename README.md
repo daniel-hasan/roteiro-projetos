@@ -56,9 +56,9 @@
 # Processamento de Linguagem Natural
 - [Entenda e teste os códigos presente neste tutorial](https://medium.com/@maelyalways/nltk-tutorial-8175e57fbfda) 
 - Entenda a representação textual usando binarização e TF-IDF [neste Jupyter](pln/representacao_texto.ipynb)
-- Entenda Embeddings vendo [esta video-aula](https://www.youtube.com/watch?v=bF-ymXA1CFg&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=39) (tópico 2 e 3 não tão é necessário entender tanto a rede neural envolvida para ser criada - tópico 3 - entenda mais a ideia geral). 
+- Entenda Embeddings vendo [esta video-aula](https://www.youtube.com/watch?v=bF-ymXA1CFg&list=PLwIaU1DGYV6tUx10fCTw5aPnqypbbK_GJ&index=39) - veja o tópico 2 e 3. O mais importante é entender a ideia geral (tópico 2) do que a rede neural (tópico 3). 
 
-- [Faça o seguinte exercício sobre embedding](https://github.com/daniel-hasan/ap-de-maquina-embedding/archive/refs/heads/master.zip) 
+- [Faça o seguinte exercício sobre embedding](https://github.com/daniel-hasan/ap-de-maquina-embedding/archive/refs/heads/master.zip): Para entender a última seção (uso de aprendizado de máquina com embeddings) é recomendável assistir pelo menos as três video aulas de aprendizado de máquina (abaixo)
 
 # Aprendizado de Máquina
 - Video aula 1: [Introdução à aprendizado de Máquina](https://www.youtube.com/watch?v=cpcBPg_z2Dg&list=PLwIaU1DGYV6u0XXOuQl8gEg0Rf05gDB9t)
